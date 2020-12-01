@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doctorbox2002.github.io</id>
     <title>Box&apos;s Blogs</title>
-    <updated>2020-11-25T08:46:04.939Z</updated>
+    <updated>2020-12-01T16:25:31.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doctorbox2002.github.io"/>
     <link rel="self" href="https://doctorbox2002.github.io/atom.xml"/>
@@ -16,8 +16,10 @@
         <link href="https://doctorbox2002.github.io/post/hello-world/">
         </link>
         <updated>2020-11-17T08:02:52.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello World!</p>
-<figure data-type="image" tabindex="1"><img src="https://doctorbox2002.github.io/post-images/1605601413437.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://doctorbox2002.github.io/post-images/1605601413437.jpg" alt="" loading="lazy"></figure>
+<p>Hello World!</p>
+<iframe src="//player.bilibili.com/player.html?aid=11619833&bvid=BV17x411674Q&cid=19200489&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0HYm60Mjm0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E5%A4%A7%E6%B1%9F%E6%88%B8%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-feat-toriena/1204268690?i=1204268696"></iframe>
 ]]></content>
     </entry>
