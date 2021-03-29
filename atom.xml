@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doctorxiong2002.github.io</id>
-    <title>Box&apos;s Blogs</title>
-    <updated>2021-03-29T10:22:24.060Z</updated>
+    <title>Xiong&apos;s Blogs</title>
+    <updated>2021-03-29T10:23:14.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doctorxiong2002.github.io"/>
     <link rel="self" href="https://doctorxiong2002.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://doctorxiong2002.github.io/images/avatar.png</logo>
     <icon>https://doctorxiong2002.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Box&apos;s Blogs</rights>
+    <rights>All rights reserved 2021, Xiong&apos;s Blogs</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://doctorxiong2002.github.io/post/hello-world/</id>
